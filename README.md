@@ -1,0 +1,2 @@
+# proyecto-educativo
+python + pygame
