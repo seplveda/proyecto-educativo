@@ -9,11 +9,10 @@ python + pygame
 ### módulos disponibles 
 
 **Física**
-![módulo física](./src/img/fisica.png)
+![módulo física](https://i.ibb.co/jGkhMfw/fisica.png)
 
 **Matemáticas**
-![módulo matemáticas](./src/img/fisica.png)
+![módulo matemáticas](https://i.ibb.co/1mrKpng/geometria.png)
 
 **Geometría**
-![módulo geometría](./src/img/fisica.png)
-
+![módulo geometría](https://i.ibb.co/TPN4kKx/matematicas.png)
