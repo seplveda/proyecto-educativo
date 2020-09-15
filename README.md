@@ -9,6 +9,7 @@ python + pygame
 ### módulos disponibles 
 
 **Física**
+
 ![módulo física](https://i.ibb.co/jGkhMfw/fisica.png)
 
  - cantidad de momentum
@@ -20,7 +21,8 @@ python + pygame
  - pygame
 
 **Matemáticas**
-![módulo matemáticas](https://i.ibb.co/1mrKpng/geometria.png)
+
+![módulo matemáticas](https://i.ibb.co/TPN4kKx/matematicas.png)
 
  - lógica
  - simulación de entidades
@@ -32,7 +34,8 @@ python + pygame
  - pygame
 
 **Geometría**
-![módulo geometría](https://i.ibb.co/TPN4kKx/matematicas.png)
+
+![módulo geometría](https://i.ibb.co/1mrKpng/geometria.png) 
 
  - geometría fractal
  - manejo de variables en tiempo real (eventos)
